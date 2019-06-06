@@ -1,14 +1,12 @@
 # Math-Match
 
-SmartWallet is the free, effortless way to manage your money in one place. You can manage your money and budget with your personal financial advocate.
+Time to learn how to play Math Match .
 
-Tracking your finances has never been such easy and fast. Just by spending few seconds a day, save a lot of money each month. No matter where you are, just a couple of taps will save your expense.
+Level up your mathematics skills and become smart! 
 
-App features:
-- Easily manage your costs and incomes
-- Find your average daily cost
-- Predict your monthly cost
-- Define your budget and trace it
+Playing happy math is a great way to improve or refresh you mathematical skills and you will have a lot of fun doing it! 
+
+Let's get started!	
 
 # Contact Us
 
